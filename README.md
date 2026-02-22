@@ -2,4 +2,4 @@
 Supermart Sales Analytics Dashboard built in Power BI to analyze retail sales data. The dashboard includes area charts for sales trends, bar charts for product performance, donut charts for category distribution, and interactive filters for dynamic analysis to generate meaningful business insights.
 ## Dashboard Preview
 
-![Supermart Sales Dashboard](screenshots/sales-dashboard.png)
+![Supermart Sales Dashboard](sales-dashboard.png)
