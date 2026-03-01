@@ -1,5 +1,5 @@
-# Supermarket-Sales-Analytics-Dashboard
-Supermarket Sales Analytics Dashboard built in Power BI to analyze retail sales data. The dashboard includes area charts for sales trends, bar charts for product performance, donut charts for category distribution, and interactive filters for dynamic analysis to generate meaningful business insights.
+# Superstore-Sales-Analytics-Dashboard
+Superstore Sales Analytics Dashboard built in Power BI to analyze retail sales data. The dashboard includes area charts for sales trends, bar charts for product performance, donut charts for category distribution, and interactive filters for dynamic analysis to generate meaningful business insights.
 ## Dashboard Preview
 
-![Supermarket Sales Dashboard](sales-dashboard.png)
+![Superstore Sales Dashboard](sales-dashboard.png)
